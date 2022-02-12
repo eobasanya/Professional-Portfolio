@@ -1,4 +1,6 @@
-Welcome to My Portfolio! 
+#Professional Portfolio#
+
+##Welcome to My Portfolio!## 
 
 My name is Elijah Obasanya, and I have a background as an Analyst at an Investment Bank. I cover equities and incorporate fundamental analysis on various stocks for numerous sectors to conduct ad hoc research and determine price targets. This portfolio builds on this experience into quantitative development on the equities market, its data cleaning and analytics process, and tops off with sophisticated trading algorithms including incorporating neural networks to train models. This will also be done on cryptocurrencies as well, and there will be significan blockchain related projects included on those projects. 
 
