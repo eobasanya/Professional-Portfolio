@@ -24,7 +24,7 @@ model.fit(x_train, y_train, epochs=25, batch_size=32)
 ```
 An example of the resulting training data for a model on platform Numerai seen below. 
 
->![Model Output Results](/modelresults.png)
+>![Model Output Results](modelresults.png)
 
 ## Subfolders ##
 ---
