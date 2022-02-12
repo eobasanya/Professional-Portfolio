@@ -6,7 +6,7 @@ My name is Elijah Obasanya, and I have a background as an Analyst at an Investme
 
 I aim to utilize these skills in the realms of quantitative development, and roles relating to the development of trading algorithms for equities, derivatives, other securities and cryptocurrencies as well! Iam extremely excited about the future that neural networks and the blockchain has on investing and finance overall, which has been the catalyst for my interest in fintech. 
 
-An example of the beginning of a model here. 
+An example of the beginning of a model can be seen here. 
 ```
 model = Sequential
 
