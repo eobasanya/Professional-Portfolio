@@ -30,7 +30,7 @@ An example of the resulting training data for a model on platform Numerai seen b
 
 
 ---
-[Code](https://github.com/eobasanya/Professional-Portfolio/tree/main/code)
+[Main Portfolio Projects - Code](https://github.com/eobasanya/Professional-Portfolio/tree/main/code)
 
 ---
 [Data](https://github.com/eobasanya/Professional-Portfolio/tree/main/data)
